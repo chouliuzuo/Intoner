@@ -1,0 +1,5 @@
+Chinese: 白发三千丈，缘愁似个长。不知明镜里，何处得秋霜。
+Pronunciation: bai2 fa4 san1 qian1 zhang4，yuan2 chou2 si4 ge1 chang2。bu4 zhi1 ming2 jing4 li3，he2 chu4 de2 qiu1 shuang1。
+tone: 入入平平上，平平去去平。入平平去上，平去入平平。
+Rhyme: 00001，00001。00000，00001。
+Stop token: 00011，01001。01001，00011。

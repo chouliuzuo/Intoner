@@ -1,0 +1,5 @@
+Chinese: 林暗草惊风，将军夜引弓。平明寻白羽，没在石棱中。
+Pronunciation: lin2 an4 cao3 jing1 feng1，jiang1 jun1 ye4 yin3 gong1。ping2 ming2 xun2 bai2 yu3，mo4 zai4 shi2 leng2 zhong1。
+tone: 平去上平平，平平去上平。平平平入上，入去入平平。
+Rhyme: 00001，00001。00000，00001。
+Stop token: 00011，01001。01001，00011。

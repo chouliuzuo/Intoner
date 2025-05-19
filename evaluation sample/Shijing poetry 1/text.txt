@@ -1,0 +1,5 @@
+Chinese: 风雨如晦，鸡鸣不已。既见君子，云胡不喜。
+Pronunciation: feng1 yu3 ru2 hui4，ji1 ming2 bu4 yi3，ji4 jian4 jun1 zi3，yun2 hu2 bu4 xi3。
+tone: 平上平去，平平入上，去去平上，平平入上。
+Rhyme: 0001，0001。0000，0001。
+Stop token: 0011，0101。0011，0101。

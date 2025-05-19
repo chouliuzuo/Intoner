@@ -1,0 +1,5 @@
+Chinese: 黯乡魂，追旅思。夜夜除非，好梦留人睡。
+Pronunciation: an4 xiang1 hun2， zhui1 lv3 si4。ye4 ye4 chu2 fei1，hao3 meng4 liu2 ren2 shui4。
+tone: 上平平，平上去。去去平平，上去平平去。
+Rhyme: 000，001。0000，00001。
+Stop token: 011，101。0011，00011。
